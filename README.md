@@ -97,3 +97,7 @@ EQ_DEPTH: -0.0011 (Not a statistically significant predictor of tsunami intensit
 # Conclusion
 ## The analyses conducted provided valuable insights into the relationship between earthquake characteristics and tsunami intensity. The visualizations highlighted key trends and patterns in the data, while the statistical models helped quantify these relationships. Despite the low explanatory power of the models, the findings underscore the importance of considering multiple factors when assessing tsunami risks.
 
+Do checkout 
+               - KAGGLE : https://www.kaggle.com/code/mohammadfaizjabir/tsunami-data-analysis-and-forcasting
+               - BLOG  : https://faiztech.hashnode.dev
+               - LINKED IN : https://www.linkedin.com/in/mohammad-faiz-jabir/
